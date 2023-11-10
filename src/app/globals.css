@@ -1,0 +1,46 @@
+:root {
+  --primary: #ff3543;
+  --secondary: #343542;
+}
+
+@import '../styles/ReactMultiDatePicker.css';
+
+@font-face {
+  font-family: Dana;
+  font-style: normal;
+  font-weight: 300;
+  src: local('Dana-Light'), url('/fonts/Dana-Light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: Dana;
+  font-style: normal;
+  font-weight: 500;
+  src: local('Dana-Medium'), url('/fonts/Dana-Medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: Dana;
+  font-style: normal;
+  font-weight: 600;
+  src: local('Dana-DemiBold'), url('/fonts/Dana-DemiBold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: Dana;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Dana-Regular'), url('/fonts/Dana-Regular.woff2') format('woff2');
+}
+
+* {
+  outline: none;
+}
+
+input {
+  @apply focus-visible:outline-none focus:outline-none focus:placeholder:text-transparent placeholder:text-sm;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

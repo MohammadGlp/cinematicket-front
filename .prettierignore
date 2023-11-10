@@ -1,0 +1,24 @@
+# Ignore everything!
+# *
+# de-ignores: add here what you want to be committed
+
+!*.*js*
+!*.ts*
+
+!**/src
+!**/src/**
+
+# re-ignores: add here what you want to be ignored again
+*.md
+*.txt
+*.yml
+.gitignore
+node_modules
+/.pnp
+.pnp.js
+.next
+out
+public
+.env
+.env.example
+.env.local

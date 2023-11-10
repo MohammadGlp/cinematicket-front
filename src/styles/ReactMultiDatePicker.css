@@ -1,0 +1,8 @@
+.rmdp-container {
+  @apply bg-transparent h-full flex-1;
+}
+
+.DateInputHasIcon,
+.DateInputHasIcon:focus {
+  @apply bg-transparent h-full w-full !border-none !outline-none shadow-none;
+}

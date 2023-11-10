@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "lang": "en-US",
+    "direction": "ltr"
+  },
+  "ci_logo": "CinemaTicket logo",
+  "back": "Back",
+  "login": "Login",
+  "dashboard": "Dashboard"
+}
