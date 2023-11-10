@@ -42,7 +42,7 @@ git clone https://github.com/MohammadGlp/cinematicket-front.git
 ```
 
 ```shell
-cd cinematicket.org
+cd cinematicket-front
 ```
 
 #### 2) Setup Project
