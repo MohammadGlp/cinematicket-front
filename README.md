@@ -29,12 +29,6 @@ Back-End:
 #### Developing ...
 
 ---
-### Priview 
-
-
-To view it online, please click on the link below: [Priview Online (Comming soon ...)]()
-
----
 
 ### Setup the project on your localhost
 
@@ -44,7 +38,7 @@ To set up the project on your localhost, follow the steps below. Afterwards, you
 #### 1) Clone Project
 
 ```shell
-git clone https://github.com/peymanath/cinematicket.org
+git clone https://github.com/MohammadGlp/cinematicket-front.git
 ```
 
 ```shell
